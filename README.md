@@ -16,4 +16,4 @@ Proyecto final de la clase de Computacion Visual Interactiva. Este proyecto se r
 ```bash
 go run .
 ```
-- En windows se puede usar el ejecutable que se encontrara en el release
+- En windows se puede usar el ejecutable que se encontrara en el release, es obligatorio tener instalado assimp para poder correr el compilado
