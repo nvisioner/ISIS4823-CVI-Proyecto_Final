@@ -1,6 +1,6 @@
 # EntregaFinalCVI
 
-Proyecto final de la clase de Computacion Visual Interactiva. Este proyecto se realizo utilizando opengl con golang. Se busco crear una escena de una casa vieja que se va detereorando con paso del tiempo. La casa, silla, oso y pala son modelos cargados con la libreria de modelos assimp y su respectivo wrapper para golang (Fork de Adi146).
+Proyecto final de la clase de Computacion Visual Interactiva. Este proyecto se realizo utilizando opengl con golang. Se busco crear una escena de una casa vieja que se va deteriorando con paso del tiempo. La casa, silla, oso y pala son modelos cargados con la libreria de modelos assimp y su respectivo wrapper para golang (Fork de Adi146).
 
 - Alvaro Javier Ayte Paz
 - Yeisson Steven Tarazona Bernal
