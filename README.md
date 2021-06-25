@@ -1,4 +1,4 @@
-# EntregaFinalCVI
+# Entrega Final CVI
 
 Proyecto final de la clase de Computacion Visual Interactiva. Este proyecto se realizo utilizando opengl con golang. Se busco crear una escena de una casa vieja que se va deteriorando con paso del tiempo. La casa, silla, oso y pala son modelos cargados con la libreria de modelos assimp y su respectivo wrapper para golang (Fork de Adi146).
 
@@ -17,4 +17,4 @@ Proyecto final de la clase de Computacion Visual Interactiva. Este proyecto se r
 go run .
 ```
 - En windows se puede usar el ejecutable que se encontrara en el release, es obligatorio tener instalado assimp para poder correr el compilado
-- https://github.com/nvisioner/EntregaFinalCVI/releases/tag/1.0 Aqui se puede encontrar el zip con el binario
+- https://github.com/nvisioner/ISIS4823-CVI-Proyecto_Final/releases/tag/1.0 Aqui se puede encontrar el zip con el binario
