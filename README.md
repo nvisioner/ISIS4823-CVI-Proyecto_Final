@@ -17,4 +17,4 @@ Proyecto final de la clase de Computacion Visual Interactiva. Este proyecto se r
 go run .
 ```
 - En windows se puede usar el ejecutable que se encontrara en el release, es obligatorio tener instalado assimp para poder correr el compilado
-- https://github.com/nvisioner/ISIS4823-CVI-Proyecto_Final/releases/tag/1.0 Aqui se puede encontrar el zip con el binario
+- [Aqui](https://github.com/nvisioner/ISIS4823-CVI-Proyecto_Final/releases/tag/1.0) se puede encontrar el zip con el binario
